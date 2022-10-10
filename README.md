@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Guilherme Bosger
 - 👀 I’m interested in Python , SQL , Machine Learning and Artificial Intelligence. 
 - 🌱 I’m currently learning Data Analytics 
-- 💞️ I’m looking to collaborate on codes and create my repositoty 
+- 💞️ I’m looking to collaborate on codes and create my repository 
 - 📫 How to reach me ...  
 
 <!---
